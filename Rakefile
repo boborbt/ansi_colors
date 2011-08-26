@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "ansi_colors"
   gem.homepage = "http://github.com/boborbt@gmail.com/ansi_colors"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Adds methods to add ansi colors escape codes to the standard String class}
+  gem.description = %Q{Adds methods to add ansi colors escape codes to the standard String class}
   gem.email = "boborbt@gmail.com"
   gem.authors = ["Roberto Esposito"]
   # dependencies defined in Gemfile
