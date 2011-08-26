@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.markdown",
     "Rakefile",
+    "ansi_colors.gemspec",
     "lib/ansi_colors.rb"
   ]
   s.homepage = %q{http://github.com/boborbt@gmail.com/ansi_colors}
