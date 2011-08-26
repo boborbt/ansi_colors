@@ -1,12 +1,20 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    git (1.2.5)
     github-markup (0.5.3)
+    jeweler (1.6.4)
+      bundler (~> 1.0)
+      git (>= 1.2.5)
+      rake
+    rake (0.8.7)
     redcarpet (1.17.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler (~> 1.0.0)
   github-markup
+  jeweler (~> 1.6.4)
   redcarpet
