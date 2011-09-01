@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Roberto Esposito"]
   s.date = %q{2011-08-26}
-  s.description = %q{Adds colorization to the String class}
+  s.description = %q{Adds methods to add ansi colors escape codes to the standard String class}
   s.email = %q{boborbt@gmail.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -31,7 +31,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.5.0}
-  s.summary = %q{Adds colorization to the String class}
+  s.summary = %q{Adds methods to add ansi colors escape codes to the standard String class}
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
