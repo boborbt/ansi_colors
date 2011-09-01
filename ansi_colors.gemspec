@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
     "ansi_colors.gemspec",
     "lib/ansi_colors.rb"
   ]
-  s.homepage = %q{http://github.com/boborbt@gmail.com/ansi_colors}
+  s.homepage = %q{http://github.com/boborbt/ansi_colors}
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.6}

@@ -15,7 +15,7 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "ansi_colors"
-  gem.homepage = "http://github.com/boborbt@gmail.com/ansi_colors"
+  gem.homepage = "http://github.com/boborbt/ansi_colors"
   gem.license = "MIT"
   gem.summary = %Q{Adds methods to add ansi colors escape codes to the standard String class}
   gem.description = %Q{Adds methods to add ansi colors escape codes to the standard String class}
