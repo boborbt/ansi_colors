@@ -8,8 +8,9 @@ the symbols defined in the ANSI_CMD hash in ansi_colors.rb.
 
 
 Example:
-
+```ruby
 	require 'ansi_colors'
 		
 	puts "red coloured string".ansi_red	
 	puts "white and bold string".ansi_white.ansi_bold
+```
