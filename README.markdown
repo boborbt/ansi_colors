@@ -1,10 +1,10 @@
 Ansi Colors
 ===========
 
-This gem adds methods to colorize string using ansi escape codes.
-The gem works by adding methods to the standard String class. Added
-methods all starts with the prefix 'ansi_' and continue with the name
-of one of the names defined in the ANSI_CMD hash in ansi_colors.rb.
+This gem adds methods to colorize strings using ansi escape codes.
+The gem works by adding methods to the standard String class. All
+added methods start with the prefix 'ansi_' and continue with one of 
+the symbols defined in the ANSI_CMD hash in ansi_colors.rb.
 
 
 Example:
