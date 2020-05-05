@@ -7,7 +7,7 @@ GEM
       bundler (~> 1.0)
       git (>= 1.2.5)
       rake
-    rake (0.8.7)
+    rake (13.0.1)
     redcarpet (1.17.2)
 
 PLATFORMS
