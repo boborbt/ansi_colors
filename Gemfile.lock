@@ -8,7 +8,7 @@ GEM
       git (>= 1.2.5)
       rake
     rake (13.0.1)
-    redcarpet (1.17.2)
+    redcarpet (3.5.1)
 
 PLATFORMS
   ruby
